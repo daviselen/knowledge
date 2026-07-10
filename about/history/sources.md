@@ -129,6 +129,45 @@ The merger gave Mogul, Williams & Saylor a West Coast presence while allowing Da
 
 ---
 
+## 1966
+
+### Henry H. Mayers Obituary
+
+**Publication:** *Broadcasting*  
+**Date:** September 5, 1966
+
+Reports the death of Henry Mayers, former chairman of the board of Davis, Johnson, Mogul & Colombatto Inc. The article states that Mayers served as chairman of the board from 1959 until his retirement in 1963 after leading the agency through its post-reorganization years.
+
+**Supports:**
+
+- Henry Mayers died on August 20, 1966.
+- Henry Mayers served as chairman of the board of Davis, Johnson, Mogul & Colombatto.
+- He held that position from 1959 until retiring in 1963.
+- Confirms the agency's corporate leadership following the 1959 reorganization.
+
+**Source:**
+
+- *Broadcasting*. September 5, 1966. [https://www.worldradiohistory.com/Archive-All-BC/Broadcasting-Magazine/BC-1966/1966-09-05-BC.pdf]
+
+### H. H. Mayers Services Held in Westwood
+
+**Publication:** *Los Angeles Times*  
+**Date:** August 22, 1966
+
+Obituary for Henry H. Mayers, founder of the Henry Mayers Company and longtime Los Angeles advertising executive. The article reports that Mayers died at age 71 and identifies members of his immediate family, including his daughter Joan Davis.
+
+**Supports:**
+
+- Henry H. Mayers died in 1966 at age 71.
+- Henry Mayers founded the Henry Mayers Company.
+- Provides family context for the agency's leadership lineage.
+
+**Source:**
+
+- *Los Angeles Times*. "H. H. Mayers Services Held in Westwood." August 22, 1966. [https://login.lapl.idm.oclc.org/login?url=https://www.proquest.com/newspapers/h-mayers-services-held-westwood/docview/155517499/se-2]
+
+---
+
 ## 1988
 
 ### *The Media Business: Advertising — Addendum*
