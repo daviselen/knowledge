@@ -1,54 +1,155 @@
 # Davis Elen Historical Sources
 
-> Archival and published sources used to document Davis Elen's history.
+> Archival and published sources used to document the history of Davis Elen Advertising and its predecessor organizations.
 
-## Web Archives
+## 1925–1940s
 
-### Davis Elen Website Archive (2006)
+### Henry Mayers Company Newspaper Articles
 
-Archived version of the Davis Elen website referencing earlier agency history and the 1925 lineage.
+Contemporary newspaper coverage documenting the Henry Mayers Company during its early years.
 
-Source:
+**Supports:**
+
+* Existence of the Henry Mayers Company.
+* Early business activities.
+* Organizational lineage beginning in 1925.
+
+**Sources:**
+
+* https://cdnc.ucr.edu/?a=d&d=DNLA19260323.1.6
+* https://cdnc.ucr.edu/?a=d&d=DNLA19300418.1.13
+* https://cdnc.ucr.edu/?a=d&d=DNLA19351109.1.20
+* https://cdnc.ucr.edu/?a=d&d=PVPN19411121.2.39
+
+---
+
+## 1956–1958
+
+### *Advertising: Un-Merged*
+
+**Publication:** *The New York Times*
+**Date:** March 18, 1958
+
+**Summary:**
+
+Reports that the Henry Mayers agency was ending its relationship with Cunningham & Walsh after merging with the firm in 1956.
+
+According to the article, Henry Mayers intended to re-establish an independent agency and retain approximately $1 million in annual billings, excluding the Sears, Roebuck & Co. account. The separation was attributed to differing interpretations of the autonomy provisions in the merger agreement and was scheduled to become effective on September 30, 1958.
+
+**Supports:**
+
+* The Henry Mayers Company merged with Cunningham & Walsh in 1956.
+* The Los Angeles operation functioned as the Cunningham & Walsh office during the merger period.
+* Henry Mayers planned to restore the agency's independence in 1958.
+* The separation from Cunningham & Walsh preceded the January 1, 1959 reorganization documented in *Broadcasting*.
+* Confirms the agency's continuity through a merger and subsequent re-establishment rather than a simple name change.
+
+**Source:**
+
+* https://www.nytimes.com/1958/03/18/archives/advertising-salute-to-duffy-of-b-b-d-o.html
+
+---
+
+## 1958
+
+### *Broadcasting* — Agency Reorganization Announcement
+
+**Publication:** *Broadcasting*
+**Issue Date:** December 15, 1958
+
+**Summary:**
+
+Announces that the **Henry Mayers Company** will be reorganized and renamed **Davis, Johnson, Anderson & Colombatto**, effective **January 1, 1959**.
+
+The article reports that Henry Mayers would retain a one-fifth ownership interest and remain president, while four longtime associates—Don Johnson, Robert Davis, Robert Colombatto, and George Anderson—would each acquire a one-fifth ownership stake and assume responsibility for major areas of the agency.
+
+Henry Mayers described the change as placing agency management in the hands of the people who already provided clients with day-to-day guidance and service.
+
+**Supports:**
+
+* Henry Mayers founded the agency more than 30 years before 1959 (consistent with a 1925 founding).
+* The agency remained under Henry Mayers's leadership through the end of 1958.
+* The ownership transition occurred on January 1, 1959.
+* The agency changed its name from **Henry Mayers Company** to **Davis, Johnson, Anderson & Colombatto**.
+* Identifies the first generation of partner-owners after Henry Mayers.
+* Documents the leadership responsibilities of Don Johnson, Robert Davis, Robert Colombatto, George Anderson, and Henry Mayers.
+
+**Source:**
+
+* https://worldradiohistory.com/Archive-BC/BC-1958/1958-12-15-BC.pdf
+
+---
+
+## 1988
+
+### *The Media Business: Advertising — Addendum*
+
+**Publication:** *The New York Times*
+**Date:** December 28, 1988
+
+**Summary:**
+
+Reports that **Davis, Johnson, Mogul & Colombatto Advertising** changed its name to **Davis, Ball & Colombatto**.
+
+> "Davis, Johnson, Mogul & Colombatto Advertising has changed its name to Davis, Ball & Colombatto."
+
+**Supports:**
+
+* Agency name timeline.
+* Transition from Davis, Johnson, Mogul & Colombatto to Davis, Ball & Colombatto.
+* Chronology of the agency's corporate identity.
+
+**Source:**
+
+* https://www.nytimes.com/1988/12/28/business/the-media-business-advertising-addendum.html
+
+---
+
+## 2006
+
+### Davis Elen Website Archive
+
+Archived version of the Davis Elen website describing the agency's history and organizational lineage.
+
+**Supports:**
+
+* 1925 founding narrative.
+* Leadership succession.
+* Agency philosophy.
+* Agency credo.
+* Historical agency names.
+
+**Source:**
 
 * https://web.archive.org/web/20060105052956/http://www.daviselen.com/davis.htm
 
-## Trade Publications and Newspapers
-
-Historical research includes materials from:
-
-* Broadcasting
-* Sponsor Magazine
-* Television Digest
-* Television Magazine
-* Advertising trade publications
-* Newspaper archives
-
-Specific citations should be added as individual claims are verified.
+---
 
 ## Modern Sources
 
 ### Davis Elen Website
 
-Current company information, services, locations, leadership, and client information.
+Current public information describing the agency, services, locations, leadership, and branding.
 
-Source:
+**Supports:**
+
+* Current agency capabilities.
+* Office locations.
+* Public founding claim of 1948.
+* Current positioning.
+
+**Source:**
 
 * https://daviselen.com/
 
-### Industry Profiles
-
-Industry sources provide additional information about:
-
-* Founding date
-* Leadership
-* Agency capabilities
-* Client relationships
+---
 
 ## Research Notes
 
 When adding historical information:
 
-* Record the source.
-* Record what claim it supports.
-* Distinguish primary sources from secondary sources.
-* Note uncertainty when evidence is incomplete.
+* Record the publication date.
+* Record the type of source (primary, secondary, company material, trade publication, etc.).
+* Summarize what the source contributes.
+* Record the specific historical claims it supports.
+* Preserve uncertainty where evidence is incomplete.
