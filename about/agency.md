@@ -13,7 +13,7 @@ Davis Elen is an independent advertising agency with offices in:
 * Kansas City
 * Denver
 
-The agency works primarily with national brands and has developed particular expertise in retail marketing, consumer brands, automotive, restaurants, and multicultural marketing.
+The agency works primarily with regional brands and has developed particular expertise in retail marketing, consumer brands, automotive, restaurants, and multicultural marketing.
 
 DE's public-facing materials describe the agency as having a history dating back to 1948. Historical research into the agency's lineage, including earlier predecessor organizations, is documented in `/history`.
 
