@@ -193,6 +193,28 @@ Reports that **Davis, Johnson, Mogul & Colombatto Advertising** changed its name
 
 ---
 
+## 1995
+
+### The Media Business: Advertising — McDonald's Hires Davis Ball Executive
+
+**Publication:** *The New York Times*  
+**Date:** November 10, 1995
+
+Reports that Brad A. Ball, co-president of Davis, Ball & Colombatto, left the agency to become Senior Vice President of Domestic Marketing at McDonald's.
+
+**Supports:**
+
+- Brad Ball was co-president of Davis, Ball & Colombatto.
+- Brad Ball departed the agency in 1995 to join McDonald's.
+- Corroborates the leadership transition described in the agency's historical narrative.
+- Establishes the final period of the Davis, Ball & Colombatto name before the adoption of Davis Elen.
+
+**Source:**
+
+- *The New York Times*. "The Media Business: Advertising — McDonald's Hires Davis Ball Executive." November 10, 1995. [https://www.nytimes.com/1995/11/10/business/the-media-business-advertising-mcdonald-s-hires-davis-ball-executive.html]
+
+---
+
 ## 2006
 
 ### Davis Elen Website Archive
