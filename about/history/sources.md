@@ -80,6 +80,55 @@ Henry Mayers described the change as placing agency management in the hands of t
 
 ---
 
+## 1961
+
+### Merger with Mogul, Williams & Saylor
+
+**Date:** October 9, 1961
+
+**Publications:**
+
+* *Broadcasting*
+* *The New York Times*
+
+**Summary:**
+
+On October 9, 1961, both *Broadcasting* and *The New York Times* reported that **Mogul, Williams & Saylor, Inc.** of New York and **Davis, Johnson, Anderson & Colombatto, Inc.** of Los Angeles had agreed to merge through an exchange of stock.
+
+Under the agreement, each agency acquired a one-fifth ownership interest in the other. Upon completion of the stock transfer, the Los Angeles agency adopted the name **Davis, Johnson, Mogul & Colombatto, Inc.**, effective **November 1, 1961**.
+
+Emil Mogul, president of Mogul, Williams & Saylor, joined the board of the Los Angeles agency, while Henry Mayers became a director of the New York agency.
+
+The merger gave Mogul, Williams & Saylor a West Coast presence while allowing Davis, Johnson, Anderson & Colombatto to strengthen its national reach.
+
+### Additional Details
+
+*The New York Times* reported that:
+
+* Mogul, Williams & Saylor billed approximately **$19 million** annually.
+* Davis, Johnson, Anderson & Colombatto billed approximately **$3 million** annually.
+* Henry Mayers served as president of the Los Angeles agency at the time of the merger.
+
+*Broadcasting* additionally reported that the merger helped support national clients requiring West Coast operations, including Rayco Manufacturing and Rootes Motors.
+
+### Supports
+
+* Agency name changed from **Davis, Johnson, Anderson & Colombatto** to **Davis, Johnson, Mogul & Colombatto**.
+* Effective date of the new name was **November 1, 1961**.
+* The change resulted from a stock merger with Mogul, Williams & Saylor.
+* Henry Mayers remained president of the Los Angeles agency in 1961.
+* Establishes the agency's approximate annual billings at **$3 million** in 1961.
+* Demonstrates the agency's growing national presence and strategic partnerships.
+
+### Sources
+
+* *The New York Times*, “Advertising: Agency Mergers,” October 9, 1961
+  [https://www.nytimes.com/1961/10/09/archives/advertising-shifting-from-house-agencies.html]
+
+* “Broadcasting 1961-10-09: Vol 61 Iss 15.” 1961. October 9, 1961. [https://archive.org/stream/sim_broadcasting-cable_broadcasting_1961-10-09_61_15/sim_broadcasting-cable_broadcasting_1961-10-09_61_15_djvu.txt]
+
+---
+
 ## 1988
 
 ### *The Media Business: Advertising — Addendum*
