@@ -41,7 +41,7 @@ No conclusion should be recorded until supported by additional primary sources.
 
 Robert Davis joined the agency in 1951/2 and quickly moved up.
 
-## 1956 - Merger Makes One Big Agency
+## 1956 - Merger and Return to Independence
 
 In December 1956, it was announced that the Mayers Company would merge with Cunningham & Walsh (NYC & Chicago) as well as Brisacher, Wheeler & Staff (SF) to form a large, national advertising agency. The marriage was not to last, however, as only a little over a year later, Cunningham & Walsh would exercise their six-month cancellation clause. On September 30, 1958, the merger was over and the Henry Mayers Company went back to being independent.
 
@@ -60,6 +60,10 @@ Los Angeles-based Davis, Johnson, Andersen & Colombatto announced a merger with 
 ## 1962 - Robert M. Davis Becomes President
 
 At 36, Mr. Davis was among the youngest advertising agency presidents.
+
+## 1963 - Henry Mayers Retires
+
+Mr. Mayers served as board chairman from 1959 until his retirement in 1963.
 
 ## 1975 — Mark Davis Joins the Agency
 
