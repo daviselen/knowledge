@@ -235,6 +235,47 @@ Archived version of the Davis Elen website describing the agency's history and o
 
 ---
 
+## 2017
+
+### Robert Milton Davis
+
+**Publisher:** Davis Elen Advertising (archived website)  
+**Date:** December 2017
+
+Agency memorial honoring Robert Milton "Bob" Davis, longtime agency leader and former president. The memorial recounts Davis's career with the agency, his leadership following Henry Mayers, his relationships with clients and colleagues, and his lasting influence on Davis Elen's culture and growth.
+
+**Supports:**
+
+- Bob Davis's career progression within the agency.
+- His leadership role following Henry Mayers.
+- Long-term relationships with major clients.
+- Institutional perspective on the agency's history and culture.
+- Context for the Davis family's role in the agency's evolution.
+
+**Source:**
+
+- https://daviselen.com/news/robert-milton-davis
+
+### Robert Milton Davis Obituary
+
+**Publication:** Monterey Herald  
+**Date:** December 2017
+
+Obituary for Robert Milton "Bob" Davis, longtime advertising executive and former agency leader. The obituary describes his career at the Mayers Company beginning in 1952, his marriage to Joan Mayers, his role in acquiring the agency in 1958 with Robert "Collie" Colombatto, and his leadership in growing the business into one of the largest independent advertising agencies on the West Coast.
+
+**Supports:**
+
+- Bob Davis joined the Mayers Company in 1952.
+- Bob Davis married Joan Mayers, daughter of Henry H. Mayers.
+- Bob Davis became an owner of the agency in 1958.
+- Documents Bob Davis's role in the agency's growth and industry leadership.
+
+**Source:**
+
+- Monterey Herald. "Robert Milton Davis Obituary." December 2017. [https://www.montereyherald.com/obituaries/robert-davis-monterey-ca/]
+
+---
+
 ## Modern Sources
 
 ### Davis Elen Website
