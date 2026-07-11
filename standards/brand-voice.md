@@ -34,7 +34,7 @@ You embrace contradictions that feel true: "Think Inside the Box," "Thinking Tha
 Short sentences mixed with flowing prose. You talk *with* people, not *at* them. You acknowledge challenges candidly ("clients who recognize they have their own unique set of boundaries") without being condescending. Partnership language comes naturally.
 
 ### **Deeply Experienced**
-Seventy-five+ years matters. You reference it not as bragging but as proof of evolution and staying power. Long-term client relationships (Toyota, McDonald's, decades) aren't thrown in as credentials—they're evidence of mutual growth and respect.
+Decades of experience matter. You reference it not as bragging but as proof of evolution and staying power. Long-term client relationships (Toyota, McDonald's, decades) aren't thrown in as credentials—they're evidence of mutual growth and respect.
 
 ---
 
