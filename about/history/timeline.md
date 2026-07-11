@@ -65,7 +65,7 @@ At 36, Mr. Davis was among the youngest advertising agency presidents.
 
 Mr. Mayers served as board chairman from 1959 until his retirement in 1963.
 
-## 1975 — Mark Davis Joins the Agency
+## 1978 — Mark Davis Joins the Agency
 
 Mark Davis began his career with the agency in 1975.
 
