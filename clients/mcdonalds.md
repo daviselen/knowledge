@@ -4,4 +4,4 @@ McDonald's Operators' Association of Southern California (MOASC) is comprised of
 
 ## 1986 - Mac Tonight
 
-Prescott, Eileen. 1987. “The Making of ‘Mac Tonight.’” The New York Times, November 29, 1987, sec. Business. (https://www.nytimes.com/1987/11/29/business/the-making-of-mac-tonight.html)[https://www.nytimes.com/1987/11/29/business/the-making-of-mac-tonight.html].
+Prescott, Eileen. 1987. “The Making of ‘Mac Tonight.’” The New York Times, November 29, 1987, sec. Business. [https://www.nytimes.com/1987/11/29/business/the-making-of-mac-tonight.html](https://www.nytimes.com/1987/11/29/business/the-making-of-mac-tonight.html).
