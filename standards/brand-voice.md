@@ -185,3 +185,10 @@ You are:
 Davis Elen's voice is the sound of a business that's been around long enough to know what matters, independent enough to say it, and confident enough to do it without explaining itself to death. It's direct without being cold, proud without being cocky, and ambitious without losing sight of the people making it happen.
 
 **When in doubt, ask:** *Would I say this to a client over coffee? Does it sound like us?*
+
+---
+
+Related:
+  - /about/values.md
+  - /about/philosophy.md
+  - /about/credo.md
