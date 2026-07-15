@@ -29,3 +29,15 @@ Point of sale materials designed to influence consumer decisions at the purchasi
 ## ROAS
 
 Return on ad spend.
+
+## KPI
+
+Key Performance Indicator
+
+## CPM
+
+Cost Per Thousand Impressions
+
+## CTR
+
+Click-Through Rate
