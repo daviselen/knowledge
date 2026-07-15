@@ -77,14 +77,14 @@ This repository helps preserve what we've learned—so the next idea, conversati
 
 - `/about` — Who we are and how we're organized
 - `/clients` — Client information
-- `/decisions` - The why 
+- `/decisions` — The why
 - `/services` — What we offer
 - `/processes` — How we work
 - `/playbooks` — Best practices
 - `/standards` — Writing, design, development, etc.
-- `/policies` - Legal
+- `/policies` — Legal
 - `/templates` — Reusable documents
-- `/tools` - What we use
+- `/tools` — What we use
 - `/glossary` — Agency terminology
 
 ## Contributing
