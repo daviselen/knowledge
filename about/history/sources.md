@@ -101,7 +101,7 @@ Emil Mogul, president of Mogul, Williams & Saylor, joined the board of the Los A
 
 The merger gave Mogul, Williams & Saylor a West Coast presence while allowing Davis, Johnson, Anderson & Colombatto to strengthen its national reach.
 
-### Additional Details
+**Additional Details:**
 
 *The New York Times* reported that:
 
@@ -111,7 +111,7 @@ The merger gave Mogul, Williams & Saylor a West Coast presence while allowing Da
 
 *Broadcasting* additionally reported that the merger helped support national clients requiring West Coast operations, including Rayco Manufacturing and Rootes Motors.
 
-### Supports
+**Supports:**
 
 * Agency name changed from **Davis, Johnson, Anderson & Colombatto** to **Davis, Johnson, Mogul & Colombatto**.
 * Effective date of the new name was **November 1, 1961**.
@@ -120,7 +120,7 @@ The merger gave Mogul, Williams & Saylor a West Coast presence while allowing Da
 * Establishes the agency's approximate annual billings at **$3 million** in 1961.
 * Demonstrates the agency's growing national presence and strategic partnerships.
 
-### Sources
+**Sources:**
 
 * *The New York Times*, “Advertising: Agency Mergers,” October 9, 1961
   [https://www.nytimes.com/1961/10/09/archives/advertising-shifting-from-house-agencies.html]
