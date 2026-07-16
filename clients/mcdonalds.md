@@ -1,3 +1,9 @@
+---
+owner: 
+status: active
+last_reviewed: 2026-07-15
+---
+
 # McDonald’s Operators’ Association of Southern California
 
 McDonald's Operators' Association of Southern California (MOASC) is comprised of more than 600 franchised and company-owned McDonald's restaurants in Los Angeles, Orange, Riverside, San Bernardino and Ventura counties. X (Twitter): @McDonalds_SoCal.

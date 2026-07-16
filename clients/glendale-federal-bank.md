@@ -1,3 +1,9 @@
+---
+owner: 
+status: former
+last_reviewed: 2026-07-15
+---
+
 # Glendale Federal Bank
 
 Glendale Federal was a client of the Mayers Company from 1956 until they left Davis, Ball & Colombatto in 1989.
